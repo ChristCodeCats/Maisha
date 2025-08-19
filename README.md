@@ -1,2 +1,16 @@
-# Maisha
-A minimal, text-first survival knowledgebase for low-infrastructure environments. Maisha provides life-critical instructions—food safety, water purification, medical basics, farming, and logistics—packaged as plain text files small enough to fit on a floppy or transmit over SMS.
+#Maisha (Swahili: Life)
+
+This repository is survival knowledge in plain .txt files.  
+No formatting, no heavy files, just text that works anywhere.  
+It is for anyone in need: Africa, Asia, or anywhere resources fail.  
+
+Topics:
+- Health (simple medicine, rehydration, prevention)
+- Water (filtering, boiling, storage)
+- Food (safe preparation, small farming)
+- Shelter (basic construction, emergency)
+- Energy (cooking, light, solar)
+
+Goal: Life is for everyone. Knowledge should not be locked away.  
+
+Maisha = Life.
