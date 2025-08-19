@@ -1,7 +1,7 @@
 Cassava Safety Instructions
 ===========================
 
-⚠️ Cassava contains natural cyanide compounds that can cause paralysis (konzo) or even death if not removed.
+WARNING: Cassava contains natural cyanide compounds that can cause paralysis (konzo), tropical ataxic neuropathy or even death if not removed.
 These steps are essential for safe consumption of bitter cassava.
 
 ---------------------------------------
@@ -46,4 +46,4 @@ Final Notes
 - Bitter cassava must *always* be detoxified.
 - Do not eat raw cassava.
 - SWM is fastest and safest where food is urgently needed.
-- Sweet cassava varieties are naturally low in cyanide and do not require these steps.
+- Sweet cassava varieties (rarely used in Africa) are naturally low in cyanide and do not require these steps.
