@@ -1,4 +1,4 @@
-#Maisha (Swahili: Life)
+# Maisha (Swahili: Life)
 
 This repository is survival knowledge in plain .txt files.  
 No formatting, no heavy files, just text that works anywhere.  
