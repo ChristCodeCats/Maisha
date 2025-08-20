@@ -21,4 +21,5 @@ Result:
 
 Note:
 This filter reduces dirt and parasites but does NOT kill all germs.
+This filter DOES NOT remove harmful chemicals so you need other measures to remove them if you are near a mine.
 Always boil or add chlorine if you can.
